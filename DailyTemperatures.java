@@ -1,4 +1,4 @@
-class DailyTemperatures {
+class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
         Stack<Integer> s=new Stack<>();
         int n=temperatures.length;
